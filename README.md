@@ -1,146 +1,117 @@
-<h1 align="center">NEVIPRINT</h1>
+# 👋 Hi, this is NEVIPRINT
 
 <p align="center">
-  <strong>Друк на одязі, який виглядає дорого</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Custom+Apparel+%26+DTF+Printing;We+Print+Your+Ideas;Fast+%7C+Quality+%7C+Local+Production" />
 </p>
 
 <p align="center">
-  👕 Футболки &nbsp;&nbsp;•&nbsp;&nbsp; 🧥 Худі &nbsp;&nbsp;•&nbsp;&nbsp; 🔥 Мерч &nbsp;&nbsp;•&nbsp;&nbsp; ☕ Сувеніри  
-</p>
-
-<p align="center">
-  🎯 DTF-друк &nbsp;&nbsp;•&nbsp;&nbsp; ⚡ Швидко &nbsp;&nbsp;•&nbsp;&nbsp; 🧵 Якісно  
-</p>
-
-<p align="center">
-  📍 Суми &nbsp;&nbsp;•&nbsp;&nbsp; 🚚 Україна
+  <b>👕 Custom apparel • 🎨 DTF printing • ⚡ Fast production</b>
 </p>
 
 ---
 
+## 🚀 About Us
+
+We are a **printing studio & product-driven team** building both:
+
+- 👕 **Physical products** — custom apparel & merch  
+- 💻 **Digital products** — marketplace & automation tools  
+
+---
+
+## 🧠 Tech + Production Stack
+
 <p align="center">
-  <a href="https://instagram.com/neviprint">
-    <img src="https://img.shields.io/badge/Instagram-Написати-000000?style=for-the-badge&logo=instagram">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,postgres,docker,redis,nginx,git,js,ts&theme=dark" />
+</p>
+
+<p align="center">
+  ⚙️ We build internal tools to automate and scale production
+</p>
+
+---
+
+## 🔥 What We Do
+
+<p align="center">
+
+👕 Apparel Printing • 🎁 Custom Gifts • 🏷 Brand Merch • 📦 Bulk Orders
+
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🛒 Marketplace Platform
+- Full-stack (React + Node.js / NestJS)
+- Authentication (JWT, OAuth)
+- Payments (Stripe / PayPal)
+- REST API
+
+### 👕 NEVIPRINT Production
+- DTF printing on apparel
+- Custom merch production
+- Real customers & real orders
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neviprint&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neviprint&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=neviprint&theme=tokyonight&hide_border=true" height="150" />
+</p>
+---
+
+## 📸 Portfolio
+
+<p align="center">
+  🔥 Real products • Real clients • Real results
+</p>
+
+<p align="center">
+  <!-- Add your images here -->
+  <img src="https://via.placeholder.com/250" />
+  <img src="https://via.placeholder.com/250" />
+</p>
+
+---
+
+## 💼 Work With Us
+
+- 🏢 Merch for companies  
+- 🎯 Branding & logo printing  
+- 📦 Bulk orders  
+- 🤝 Collaboration  
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="https://www.instagram.com/neviprint/">
+    <img src="https://img.shields.io/badge/Order%20via%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://linktr.ee/neviprint">
-    <img src="https://img.shields.io/badge/Замовити-Онлайн-000000?style=for-the-badge&logo=vercel">
+  <a href="sumyneviprint@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Us-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## ⚫ ПРО БРЕНД
-
-> **NEVIPRINT — студія друку в Сумах, яка робить мерч рівня брендів.**
-
-Ми працюємо з деталями:  
-🔍 чіткість принта  
-🎨 глибина кольору  
-🧵 якість тканини  
-
-Результат — одяг, який виглядає дорожче своєї ціни.
-
----
-
-## ⚙️ ПОСЛУГИ
+## ⚡ Philosophy
 
 <p align="center">
 
-👕 Друк на футболках  
-🧥 Худі / світшоти  
-☕ Чашки  
-🏷 Брендування  
-🔥 Мерч під ключ  
+> Print ideas. Build brands. Scale systems.
 
 </p>
 
 ---
 
-## 🧪 ТЕХНОЛОГІЯ
-
-<p align="center">
-
-🎨 **Насичені кольори**  
-🔍 **Максимальна деталізація**  
-💧 **Стійкість до прання**  
-🧵 **Будь-яка тканина**
-
-</p>
-
----
-
-## 🚀 ПЕРЕВАГИ
-
-<p align="center">
-
-⚡ **1 година** → готово  
-📦 **1 штука** → мінімум  
-🎯 **100% контроль**  
-🎨 **Допомога з дизайном**  
-🚚 **Вся Україна**
-
-</p>
-
----
-
-## 🧠 ЯК МИ ПРАЦЮЄМО
-
-<p align="center">
-
-✍️ Написав →  
-🎨 Узгодив →  
-🖨 Надрукували →  
-📦 Відправили  
-
-</p>
-
----
-
-## 🎯 ДЛЯ КОГО
-
-👔 Бізнес  
-👕 Бренди одягу  
-🎉 Івенти  
-🎁 Подарунки  
-🧍 Індивідуальні замовлення  
-
----
-
-## 📍 ГЕО
-
-**Суми • Україна**
-
----
-
-## 🔥 CTA
-
-<p align="center">
-
-<strong>Зроби свій принт сьогодні</strong>
-
-<br><br>
-
-<a href="https://instagram.com/neviprint">
-  <img src="https://img.shields.io/badge/Написати-Instagram-000000?style=for-the-badge&logo=instagram">
-</a>
-
-</p>
-
----
-
-## 🧠 SEO
-
-друк на футболках Суми  
-DTF друк Україна  
-друк на одязі  
-терміновий друк  
-виготовлення мерчу  
-принт на одязі Україна  
-
----
-
-<p align="center">
-⚫ NEVIPRINT  
-<br>
-<strong>PRINT THAT LOOKS EXPENSIVE</strong>
-</p>
+⭐ **NEVIPRINT — custom printing & product development**
