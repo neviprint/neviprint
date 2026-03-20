@@ -75,11 +75,14 @@ We are a **printing studio & product-driven team** building both:
 </p>
 
 <p align="center">
-  <!-- Add your images here -->
-  <img src="https://via.placeholder.com/250" />
-  <img src="https://via.placeholder.com/250" />
+  <a href="https://www.instagram.com/neviprint/">
+    <img src="https://img.shields.io/badge/See%20Our%20Work%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
+<p align="center">
+  <sub>More examples and updates are posted regularly on Instagram</sub>
+</p>
 ---
 
 ## 💼 Work With Us
